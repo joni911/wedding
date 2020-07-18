@@ -10909,7 +10909,7 @@ a.text-dark:focus {
 
 body {
     font-family: "Poppins", Arial, sans-serif;
-    background: #fff;
+    background: #d9d9d9;
     font-size: 17px;
     line-height: 1.8;
     font-weight: 400;
@@ -11144,7 +11144,7 @@ h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #fff !important;
+    background: #d9d9d9 !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     padding: 0 15px;
@@ -11404,7 +11404,7 @@ h5,
 }
 
 .bg-light {
-    background: #f8f9fa !important;
+    background: #d9d9d9 !important;
 }
 
 .bg-primary {
@@ -11636,7 +11636,7 @@ textarea.form-control {
 .ftco-about h2 {
     font-size: 64px;
     color: #AD974F;
-    font-family: "Great Vibes", cursive;
+    font-family: 'Parisienne', cursive;
 }
 
 .ftco-about .img {
@@ -11662,7 +11662,7 @@ textarea.form-control {
 
 .ftco-about .time {
     font-family: "Libre Caslon Text", serif;
-    font-size: 48px;
+    font-size: 30px;
     color: #AD974F;
     text-transform: uppercase;
 }
